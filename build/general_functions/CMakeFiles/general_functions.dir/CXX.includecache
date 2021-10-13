@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/giancarlo/Dropbox/mariaT21/src/general_functions/include/general_functions.h
+
+/home/giancarlo/Dropbox/mariaT21/src/general_functions/src/general_functions.cpp
+../include/general_functions.h
+/home/giancarlo/Dropbox/mariaT21/src/general_functions/include/general_functions.h
+cmath
+-
+

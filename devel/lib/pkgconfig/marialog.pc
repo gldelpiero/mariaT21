@@ -1,0 +1,8 @@
+prefix=/home/giancarlo/Dropbox/mariaT21/devel
+
+Name: marialog
+Description: Description of marialog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

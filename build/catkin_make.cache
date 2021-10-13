@@ -1,0 +1,2 @@
+child_detection:control_law:controle:emotion_detection:general_functions:marialog:operation_modes:rosaria:state_machine:testekid:workspace
+-DCATKIN_DEVEL_PREFIX=/home/giancarlo/Dropbox/mariaT21/devel -DCMAKE_INSTALL_PREFIX=/home/giancarlo/Dropbox/mariaT21/install -G Unix Makefiles

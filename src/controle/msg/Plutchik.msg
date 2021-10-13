@@ -1,0 +1,5 @@
+Header header
+int8 joy_sadness
+int8 surprise_anticipation
+int8 anger_fear
+int8 trust_disgust

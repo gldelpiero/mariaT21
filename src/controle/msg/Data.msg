@@ -1,0 +1,13 @@
+Header header
+controle/Distance distance
+float32 angle
+uint8 PROXEMIC_ZONE_PUBLIC = 0
+uint8 PROXEMIC_ZONE_SOCIAL_PUBLIC = 1
+uint8 PROXEMIC_ZONE_SOCIAL = 2
+uint8 PROXEMIC_ZONE_PERSONAL_SOCIAL = 3
+uint8 PROXEMIC_ZONE_PERSONAL = 4
+uint8 proxemic_zone
+uint8 WORKSPACE_AREA_EXTERNAL = 0
+uint8 WORKSPACE_AREA_OBSERVATION = 1
+uint8 WORKSPACE_AREA_INTERACTION = 2
+uint8 workspace_area

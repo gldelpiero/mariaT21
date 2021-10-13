@@ -1,0 +1,8 @@
+prefix=/home/giancarlo/Dropbox/mariaT21/install
+
+Name: general_functions
+Description: Description of general_functions
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgeneral_functions
+Requires: roscpp message_runtime
